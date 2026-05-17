@@ -1,4 +1,4 @@
-## Bank Client Analysis: Predicting Good and Bad Clients
+# Credit Risk & Client Classification Analysis
 
 ### Project Objective
 Predict good and bad clients for an American bank to assess risk and support decision-making for loans and financial services.
